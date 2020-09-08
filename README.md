@@ -2,7 +2,7 @@
 
 ## Graphics based game in c++ 
 
-![Alt Text](https://j.gifs.com/xngnVE.gif)
+<img src="https://j.gifs.com/xngnVE.gif" width="600" height="600" />
 
 ### Usage 
 
