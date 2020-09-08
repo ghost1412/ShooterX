@@ -14,5 +14,5 @@
  
  
 ```shell
-g++ Users :</b>  compile with gcc demo.c -o demo -lgraph.
+g++ Users : Compile with gcc demo.c -o demo -lgraph
 ```
