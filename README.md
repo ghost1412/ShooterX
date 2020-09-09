@@ -1,9 +1,30 @@
 # ShooterX
 
-## Graphics based game in c++ 
+## Graphics based game in C++ 
 
 <img src="https://j.gifs.com/xngnVE.gif" width="600" height="600" />
 
+### Requirement
+
+- Graphics.h
+
+### Controls
+  ```shell
+   <- : left
+   -> : Right
+   x and z : to change angle of the gun
+   Space : Shoot
+   p : pause
+   r : restart
+  ```
+### Rules
+
+-  You have 3 lifes each life have 100 HP
+- Dodge the bullets falling from the sky
+- You can move left or right and rotate your gun clockwise or anticlockwise
+- Shoot at the randomly generated circle but you cannot shoot the 2 blue circle {Blockers} circulating around the target circle
+- Your score will be recored corresponding to your name
+  
 ### Usage 
 
 
@@ -14,5 +35,5 @@
  
  
 ```shell
-g++ Users : Compile with gcc demo.c -o demo -lgraph
+g++ Users : gcc demo.c -o demo -lgraph
 ```
